@@ -1,0 +1,13 @@
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parking.exe
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parking.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parking.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parking.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parking.dll
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parking.pdb
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\bin\Debug\netcoreapp3.0\Parkovka.dll
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\obj\Debug\netcoreapp3.0\Parking.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\obj\Debug\netcoreapp3.0\Parking.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\obj\Debug\netcoreapp3.0\Parking.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\obj\Debug\netcoreapp3.0\Parking.csproj.CopyComplete
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\obj\Debug\netcoreapp3.0\Parking.dll
+C:\Users\Denis\Desktop\Новая папка C#\Parking\Parking\obj\Debug\netcoreapp3.0\Parking.pdb
